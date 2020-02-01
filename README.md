@@ -9,4 +9,5 @@ The website will be 3 pages:
 
 ## Design
 All pages will have same header image and menu items with variation depending on the page a user is on.
+
 Image: bought  form iStock, an image of logical V creative brain
