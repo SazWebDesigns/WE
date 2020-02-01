@@ -12,4 +12,4 @@ All pages will have same header image and menu items with variation depending on
 
 Image: bought  form iStock, an image of logical V creative brain
 
-![Logical V Creative Mind image] ( https://github.com/SazWebDesigns/WE/blob/master/images/logicalcreative.jpg )
+![Logical V Creative Mind image] ( /images/logicalcreative.jpg )
